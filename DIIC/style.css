@@ -1,0 +1,81 @@
+
+.navbar
+{
+    background-color: #23415C;
+    padding: 16px 20px; 
+    font-size: 2ch;
+margin-left:-15px;
+margin-right:-15px;
+
+}
+.navbar-brand
+{
+     min-height: 55px;
+     padding: 0 15px 5px;
+}
+.navbar-default .navbar-nav li a {
+    color: ghostwhite;
+    text-align: center;
+}
+.navbar-default .navbar-nav li a:hover {
+    color:white;
+}
+.navbar-default .navbar-nav li a.active
+{
+	color:white;
+}
+.navbar-default .navbar-nav .dropdown .dropdown-menu  li a:hover {
+	
+	color:black;
+}
+footer
+{
+background-color: #23415C;
+width: 100%;
+padding: 5% 5% 5% 5%;
+color: white;
+margin-top:10px;}
+.fa
+{
+    padding: 10px;
+    font-size: 2.5ch;
+    color: white;
+}
+.fa:hover
+{
+    padding: 10px;
+    font-size: 2.5ch;
+    color: white;
+}
+.icon
+{
+   max-width: 200px; 
+}
+.logo
+{
+    padding: 5pc;
+    position: relative;
+    display: block;
+    width: 80%;
+    height: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+
+}
+.pic
+{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+}
+.footernav a{
+margin:10px;
+font-size:1.5em;
+text-decoration:none;
+color:ghostwhite;
+}
+.footernav a:hover{
+text-decoration:none;
+color:#d7dae0;
+}
